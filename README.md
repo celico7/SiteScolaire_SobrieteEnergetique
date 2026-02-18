@@ -17,3 +17,5 @@ Nous avons opté pour une approche hybride afin de montrer nos compétences en d
 
 ### 🎮 Quiz de fin de parcours
 Pour tester les connaissances acquises, un quiz codé en JavaScript est proposé à la fin. 
+
+![Aperçu du site](SitePageAccueil.png)
